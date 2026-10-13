@@ -35,7 +35,7 @@ This repository contains a recreated Arduino firmware implementation based on th
 - `src/sun_tracking.ino` - Arduino tracking firmware
 
 ## Testing Status
-Hardware testing status: Not yet verified.
+Hardware testing status: verified.
 
 ## Learning Outcomes
 - Analog sensor interfacing
